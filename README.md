@@ -9,6 +9,7 @@ For concrete examples, see the MySensors (Arduino + nRF24 radio) and ESPEasy (ES
 An Arduino library to control pump/split unit air conditioner. Currently supporting at least these models:
 
 * Ballu
+  * Brands: Hisense AS, BERG (remote control P/N 4266475A)
 * Carrier 42NQV035G / 38NYV035H2 (Carrier remote control P/N WH-L05SE)
 * Daikin RXS25G2V1B / FVXS25FV1B (Remote control P/N ARC452A1)
 * Hisense AUD (remote control Y-H1-01,  Y-H1-02(E), Y-J1, Y-E4-07) probably AUC model
